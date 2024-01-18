@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/prince-hotel-mini-app-test/static/css/main.732b4a01.css",
-    "main.js": "/prince-hotel-mini-app-test/static/js/main.7a59cc20.js",
+    "main.js": "/prince-hotel-mini-app-test/static/js/main.c5cb5e3e.js",
     "static/js/787.def98800.chunk.js": "/prince-hotel-mini-app-test/static/js/787.def98800.chunk.js",
     "static/media/peep-standing-16.svg": "/prince-hotel-mini-app-test/static/media/peep-standing-16.10105017225f864068e810e948351319.svg",
     "static/media/Product Sans Regular.ttf": "/prince-hotel-mini-app-test/static/media/Product Sans Regular.d165384076551a756b3c.ttf",
     "index.html": "/prince-hotel-mini-app-test/index.html",
     "main.732b4a01.css.map": "/prince-hotel-mini-app-test/static/css/main.732b4a01.css.map",
-    "main.7a59cc20.js.map": "/prince-hotel-mini-app-test/static/js/main.7a59cc20.js.map",
+    "main.c5cb5e3e.js.map": "/prince-hotel-mini-app-test/static/js/main.c5cb5e3e.js.map",
     "787.def98800.chunk.js.map": "/prince-hotel-mini-app-test/static/js/787.def98800.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.732b4a01.css",
-    "static/js/main.7a59cc20.js"
+    "static/js/main.c5cb5e3e.js"
   ]
 }
